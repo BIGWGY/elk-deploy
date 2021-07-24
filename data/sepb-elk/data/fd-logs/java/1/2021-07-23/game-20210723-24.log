@@ -1,0 +1,505 @@
+[2021-07-23 14:38:18.502] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = event
+[2021-07-23 14:38:18.502] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = event
+[2021-07-23 14:38:18.504] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = route
+[2021-07-23 14:38:18.504] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = route
+[2021-07-23 14:38:18.504] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = jdbc
+[2021-07-23 14:38:18.504] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = jdbc
+[2021-07-23 14:38:18.638] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = dispatch
+[2021-07-23 14:38:18.638] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = dispatch
+[2021-07-23 14:38:18.642] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = dataConfig
+[2021-07-23 14:38:18.642] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = dataConfig
+[2021-07-23 14:38:18.652] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:AchievementConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.652] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:AchievementConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.656] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityConfig, hasPK:true, indexSize:2, modelSize:4]
+[2021-07-23 14:38:18.656] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityConfig, hasPK:true, indexSize:2, modelSize:4]
+[2021-07-23 14:38:18.660] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityExchangeConfig, hasPK:true, indexSize:2, modelSize:7]
+[2021-07-23 14:38:18.660] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityExchangeConfig, hasPK:true, indexSize:2, modelSize:7]
+[2021-07-23 14:38:18.661] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityGroupConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.661] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityGroupConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.662] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityLoginConfig, hasPK:false, indexSize:0, modelSize:7]
+[2021-07-23 14:38:18.662] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityLoginConfig, hasPK:false, indexSize:0, modelSize:7]
+[2021-07-23 14:38:18.663] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityPuzzleBoxConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.663] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityPuzzleBoxConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.665] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityPuzzleConfig, hasPK:true, indexSize:0, modelSize:2]
+[2021-07-23 14:38:18.665] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityPuzzleConfig, hasPK:true, indexSize:0, modelSize:2]
+[2021-07-23 14:38:18.666] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityServerDaysBoxRewardConfig, hasPK:true, indexSize:1, modelSize:5]
+[2021-07-23 14:38:18.666] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityServerDaysBoxRewardConfig, hasPK:true, indexSize:1, modelSize:5]
+[2021-07-23 14:38:18.668] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivitySevenDaysConfig, hasPK:true, indexSize:9, modelSize:7]
+[2021-07-23 14:38:18.668] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivitySevenDaysConfig, hasPK:true, indexSize:9, modelSize:7]
+[2021-07-23 14:38:18.670] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityTaskConfig, hasPK:true, indexSize:2, modelSize:3]
+[2021-07-23 14:38:18.670] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActivityTaskConfig, hasPK:true, indexSize:2, modelSize:3]
+[2021-07-23 14:38:18.672] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActorCountConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.672] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ActorCountConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:18.672] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:AdvertConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:18.672] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:AdvertConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:18.688] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:AreaConfig, hasPK:true, indexSize:0, modelSize:62]
+[2021-07-23 14:38:18.688] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:AreaConfig, hasPK:true, indexSize:0, modelSize:62]
+[2021-07-23 14:38:18.895] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleCardConfig, hasPK:true, indexSize:0, modelSize:77]
+[2021-07-23 14:38:18.895] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleCardConfig, hasPK:true, indexSize:0, modelSize:77]
+[2021-07-23 14:38:18.980] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleEnemyConfig, hasPK:true, indexSize:0, modelSize:620]
+[2021-07-23 14:38:18.980] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleEnemyConfig, hasPK:true, indexSize:0, modelSize:620]
+[2021-07-23 14:38:18.990] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleSkillConfig, hasPK:true, indexSize:0, modelSize:78]
+[2021-07-23 14:38:18.990] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleSkillConfig, hasPK:true, indexSize:0, modelSize:78]
+[2021-07-23 14:38:18.992] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleSkillEffectConfig, hasPK:true, indexSize:0, modelSize:55]
+[2021-07-23 14:38:18.992] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:BattleSkillEffectConfig, hasPK:true, indexSize:0, modelSize:55]
+[2021-07-23 14:38:19.034] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ChallengeConfig, hasPK:true, indexSize:62, modelSize:620]
+[2021-07-23 14:38:19.034] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ChallengeConfig, hasPK:true, indexSize:62, modelSize:620]
+[2021-07-23 14:38:19.042] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:CityConfig, hasPK:true, indexSize:0, modelSize:388]
+[2021-07-23 14:38:19.042] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:CityConfig, hasPK:true, indexSize:0, modelSize:388]
+[2021-07-23 14:38:19.043] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:DailyTaskAwardConfig, hasPK:false, indexSize:0, modelSize:6]
+[2021-07-23 14:38:19.043] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:DailyTaskAwardConfig, hasPK:false, indexSize:0, modelSize:6]
+[2021-07-23 14:38:19.044] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:DailyTaskConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.044] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:DailyTaskConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.310] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:DropConfig, hasPK:false, indexSize:1255, modelSize:4317]
+[2021-07-23 14:38:19.310] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:DropConfig, hasPK:false, indexSize:1255, modelSize:4317]
+[2021-07-23 14:38:19.311] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:EntrustTaskConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.311] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:EntrustTaskConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.314] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ErrorConfig, hasPK:true, indexSize:0, modelSize:109]
+[2021-07-23 14:38:19.314] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ErrorConfig, hasPK:true, indexSize:0, modelSize:109]
+[2021-07-23 14:38:19.314] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:FunctionLockConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.314] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:FunctionLockConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.316] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:FurnitureConfig, hasPK:true, indexSize:0, modelSize:5]
+[2021-07-23 14:38:19.316] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:FurnitureConfig, hasPK:true, indexSize:0, modelSize:5]
+[2021-07-23 14:38:19.317] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:GoodsConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.317] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:GoodsConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.318] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:GoodsCycleConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.318] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:GoodsCycleConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.319] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:HandbookProgressConfig, hasPK:true, indexSize:0, modelSize:8]
+[2021-07-23 14:38:19.319] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:HandbookProgressConfig, hasPK:true, indexSize:0, modelSize:8]
+[2021-07-23 14:38:19.320] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:HeadFrameConfig, hasPK:true, indexSize:0, modelSize:6]
+[2021-07-23 14:38:19.320] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:HeadFrameConfig, hasPK:true, indexSize:0, modelSize:6]
+[2021-07-23 14:38:19.320] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:HeadPortraitConfig, hasPK:true, indexSize:0, modelSize:3]
+[2021-07-23 14:38:19.320] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:HeadPortraitConfig, hasPK:true, indexSize:0, modelSize:3]
+[2021-07-23 14:38:19.321] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:InitPlayerConfig, hasPK:true, indexSize:0, modelSize:3]
+[2021-07-23 14:38:19.321] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:InitPlayerConfig, hasPK:true, indexSize:0, modelSize:3]
+[2021-07-23 14:38:19.326] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ItemConfig, hasPK:true, indexSize:6, modelSize:247]
+[2021-07-23 14:38:19.326] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ItemConfig, hasPK:true, indexSize:6, modelSize:247]
+[2021-07-23 14:38:19.327] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ItemIsShowCfg, hasPK:true, indexSize:0, modelSize:37]
+[2021-07-23 14:38:19.327] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ItemIsShowCfg, hasPK:true, indexSize:0, modelSize:37]
+[2021-07-23 14:38:19.328] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:JournalConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.328] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:JournalConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.354] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:LanguageConfig, hasPK:true, indexSize:0, modelSize:2745]
+[2021-07-23 14:38:19.354] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:LanguageConfig, hasPK:true, indexSize:0, modelSize:2745]
+[2021-07-23 14:38:19.356] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MailTemplateConfig, hasPK:true, indexSize:0, modelSize:2]
+[2021-07-23 14:38:19.356] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MailTemplateConfig, hasPK:true, indexSize:0, modelSize:2]
+[2021-07-23 14:38:19.357] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MaintainConfig, hasPK:false, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.357] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MaintainConfig, hasPK:false, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.364] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MaskWordConfig, hasPK:true, indexSize:0, modelSize:17]
+[2021-07-23 14:38:19.364] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MaskWordConfig, hasPK:true, indexSize:0, modelSize:17]
+[2021-07-23 14:38:19.365] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MileageExpandConfig, hasPK:false, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.365] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:MileageExpandConfig, hasPK:false, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.366] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:NewsConfig, hasPK:true, indexSize:0, modelSize:6]
+[2021-07-23 14:38:19.366] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:NewsConfig, hasPK:true, indexSize:0, modelSize:6]
+[2021-07-23 14:38:19.368] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:PropertyConfig, hasPK:true, indexSize:0, modelSize:8]
+[2021-07-23 14:38:19.368] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:PropertyConfig, hasPK:true, indexSize:0, modelSize:8]
+[2021-07-23 14:38:19.370] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ProvinceConfig, hasPK:true, indexSize:0, modelSize:34]
+[2021-07-23 14:38:19.370] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:ProvinceConfig, hasPK:true, indexSize:0, modelSize:34]
+[2021-07-23 14:38:19.372] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:RandomNameConfig, hasPK:true, indexSize:0, modelSize:80]
+[2021-07-23 14:38:19.372] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:RandomNameConfig, hasPK:true, indexSize:0, modelSize:80]
+[2021-07-23 14:38:19.374] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:RoomConfig, hasPK:true, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.374] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:RoomConfig, hasPK:true, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.376] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:RuleServerConfig, hasPK:true, indexSize:0, modelSize:17]
+[2021-07-23 14:38:19.376] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:RuleServerConfig, hasPK:true, indexSize:0, modelSize:17]
+[2021-07-23 14:38:19.377] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialMessageConfig, hasPK:false, indexSize:0, modelSize:20]
+[2021-07-23 14:38:19.377] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialMessageConfig, hasPK:false, indexSize:0, modelSize:20]
+[2021-07-23 14:38:19.378] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialMomentConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.378] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialMomentConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.379] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialPhotoConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.379] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialPhotoConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.380] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialTravellerConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.380] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialTravellerConfig, hasPK:true, indexSize:0, modelSize:1]
+[2021-07-23 14:38:19.381] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialTravellerMailConfig, hasPK:false, indexSize:10, modelSize:8]
+[2021-07-23 14:38:19.381] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SocialTravellerMailConfig, hasPK:false, indexSize:10, modelSize:8]
+[2021-07-23 14:38:19.391] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffCardConfig, hasPK:true, indexSize:0, modelSize:200]
+[2021-07-23 14:38:19.391] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffCardConfig, hasPK:true, indexSize:0, modelSize:200]
+[2021-07-23 14:38:19.395] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffConfig, hasPK:true, indexSize:0, modelSize:20]
+[2021-07-23 14:38:19.395] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffConfig, hasPK:true, indexSize:0, modelSize:20]
+[2021-07-23 14:38:19.396] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffLevelConfig, hasPK:true, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.396] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffLevelConfig, hasPK:true, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.398] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffRetireConfig, hasPK:true, indexSize:45, modelSize:36]
+[2021-07-23 14:38:19.398] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffRetireConfig, hasPK:true, indexSize:45, modelSize:36]
+[2021-07-23 14:38:19.399] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffSkillConfig, hasPK:true, indexSize:11, modelSize:10]
+[2021-07-23 14:38:19.399] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaffSkillConfig, hasPK:true, indexSize:11, modelSize:10]
+[2021-07-23 14:38:19.401] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaticChessPieces, hasPK:true, indexSize:0, modelSize:48]
+[2021-07-23 14:38:19.401] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StaticChessPieces, hasPK:true, indexSize:0, modelSize:48]
+[2021-07-23 14:38:19.402] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StoreGroceriesConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.402] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StoreGroceriesConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.402] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StudioJobCdConfig, hasPK:false, indexSize:0, modelSize:13]
+[2021-07-23 14:38:19.402] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StudioJobCdConfig, hasPK:false, indexSize:0, modelSize:13]
+[2021-07-23 14:38:19.404] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StudioJobConfig, hasPK:true, indexSize:0, modelSize:11]
+[2021-07-23 14:38:19.404] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StudioJobConfig, hasPK:true, indexSize:0, modelSize:11]
+[2021-07-23 14:38:19.405] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StudioLevelConfig, hasPK:true, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.405] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:StudioLevelConfig, hasPK:true, indexSize:0, modelSize:10]
+[2021-07-23 14:38:19.406] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SystemMsgConfig, hasPK:true, indexSize:0, modelSize:3]
+[2021-07-23 14:38:19.406] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:SystemMsgConfig, hasPK:true, indexSize:0, modelSize:3]
+[2021-07-23 14:38:19.406] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:TrainConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.406] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:TrainConfig, hasPK:false, indexSize:0, modelSize:0]
+[2021-07-23 14:38:19.408] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:UnlockConfig, hasPK:true, indexSize:3, modelSize:29]
+[2021-07-23 14:38:19.408] ||main|| ||DEBUG|| ||DataConfigComponent.java:193|| -storage info:[class:UnlockConfig, hasPK:true, indexSize:3, modelSize:29]
+[2021-07-23 14:38:19.408] ||main|| ||DEBUG|| ||DataConfigComponent.java:140|| -load data config file list:
+[2021-07-23 14:38:19.408] ||main|| ||DEBUG|| ||DataConfigComponent.java:140|| -load data config file list:
+[2021-07-23 14:38:19.409] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityServerDaysBoxRewardConfig
+[2021-07-23 14:38:19.409] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityServerDaysBoxRewardConfig
+[2021-07-23 14:38:19.409] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffRetireConfig
+[2021-07-23 14:38:19.409] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffRetireConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:NewsConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:NewsConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StudioJobCdConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StudioJobCdConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:HeadPortraitConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:HeadPortraitConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaticChessPieces
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaticChessPieces
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:GoodsCycleConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:GoodsCycleConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MileageExpandConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MileageExpandConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:FurnitureConfig
+[2021-07-23 14:38:19.410] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:FurnitureConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleEnemyConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleEnemyConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleSkillEffectConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleSkillEffectConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:RandomNameConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:RandomNameConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:AreaConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:AreaConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:UnlockConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:UnlockConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActorCountConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActorCountConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ProvinceConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ProvinceConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:RoomConfig
+[2021-07-23 14:38:19.411] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:RoomConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:DailyTaskAwardConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:DailyTaskAwardConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ItemConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ItemConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MaskWordConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MaskWordConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleCardConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleCardConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StoreGroceriesConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StoreGroceriesConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:JournalConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:JournalConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialTravellerMailConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialTravellerMailConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:DailyTaskConfig
+[2021-07-23 14:38:19.412] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:DailyTaskConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:HeadFrameConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:HeadFrameConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MailTemplateConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MailTemplateConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivitySevenDaysConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivitySevenDaysConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:InitPlayerConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:InitPlayerConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:EntrustTaskConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:EntrustTaskConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:PropertyConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:PropertyConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityPuzzleBoxConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityPuzzleBoxConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:LanguageConfig
+[2021-07-23 14:38:19.413] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:LanguageConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:AchievementConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:AchievementConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityLoginConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityLoginConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SystemMsgConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SystemMsgConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffLevelConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffLevelConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StudioJobConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StudioJobConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:DropConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:DropConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialMomentConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialMomentConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialTravellerConfig
+[2021-07-23 14:38:19.414] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialTravellerConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:TrainConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:TrainConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MaintainConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:MaintainConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ErrorConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ErrorConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityTaskConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityTaskConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:HandbookProgressConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:HandbookProgressConfig
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ItemIsShowCfg
+[2021-07-23 14:38:19.415] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ItemIsShowCfg
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:AdvertConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:AdvertConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:GoodsConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:GoodsConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:CityConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:CityConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:FunctionLockConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:FunctionLockConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityPuzzleConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityPuzzleConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ChallengeConfig
+[2021-07-23 14:38:19.416] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ChallengeConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialMessageConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialMessageConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StudioLevelConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StudioLevelConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityExchangeConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityExchangeConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityGroupConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:ActivityGroupConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialPhotoConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:SocialPhotoConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:RuleServerConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:RuleServerConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffSkillConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffSkillConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleSkillConfig
+[2021-07-23 14:38:19.417] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:BattleSkillConfig
+[2021-07-23 14:38:19.418] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffCardConfig
+[2021-07-23 14:38:19.418] ||main|| ||DEBUG|| ||DataConfigComponent.java:141|| -result:true, load file:StaffCardConfig
+[2021-07-23 14:38:19.418] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = rpcClient
+[2021-07-23 14:38:19.418] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = rpcClient
+[2021-07-23 14:38:19.424] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = AccountHandler
+[2021-07-23 14:38:19.424] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = AccountHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActivityHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActivityHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActivityMissionHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActivityMissionHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ExchangeHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ExchangeHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PuzzleHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PuzzleHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = BlackListHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = BlackListHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = AreaHandler
+[2021-07-23 14:38:19.425] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = AreaHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorVolatileHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorVolatileHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = BattleHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = BattleHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CardHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CardHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ChallengeHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ChallengeHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ChatHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ChatHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorCountHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorCountHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = FriendHandler
+[2021-07-23 14:38:19.426] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = FriendHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GoodsHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GoodsHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorHandbookHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorHandbookHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = LangHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = LangHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = MailHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = MailHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = OperateHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = OperateHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CommonHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CommonHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = FurnitureHandler
+[2021-07-23 14:38:19.427] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = FurnitureHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PackHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PackHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PlanHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PlanHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PropHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = PropHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RedDotHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RedDotHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RedisHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RedisHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RewardHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RewardHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RoomHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = RoomHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = SocialHandler
+[2021-07-23 14:38:19.428] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = SocialHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = StaffHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = StaffHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GroupCycleHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GroupCycleHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = TrainHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = TrainHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = UnlockHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = UnlockHandler
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = AccountRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = AccountRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CenterForwardRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CenterForwardRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CenterMaintainRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CenterMaintainRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CenterRpc
+[2021-07-23 14:38:19.429] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = CenterRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = UserRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = UserRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = ActorRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GameMaintainRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GameMaintainRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GmRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GmRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GateMaintainRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = GateMaintainRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = FriendGameGlobalRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = FriendGameGlobalRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = LoggerAnalysisRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = LoggerAnalysisRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = LoggerRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = LoggerRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = WebMaintainRpc
+[2021-07-23 14:38:19.430] ||main|| ||DEBUG|| ||RpcClientComponent.java:187|| -register rpc interface. class = WebMaintainRpc
+[2021-07-23 14:38:19.431] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = redis
+[2021-07-23 14:38:19.431] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = redis
+[2021-07-23 14:38:19.431] ||main|| ||DEBUG|| ||RedisComponent.java:199|| -redis key:fd ping test.
+[2021-07-23 14:38:19.431] ||main|| ||DEBUG|| ||RedisComponent.java:199|| -redis key:fd ping test.
+[2021-07-23 14:38:19.431] ||main|| ||DEBUG|| ||RedisComponent.java:201|| -ping ...
+[2021-07-23 14:38:19.431] ||main|| ||DEBUG|| ||RedisComponent.java:201|| -ping ...
+[2021-07-23 14:38:19.432] ||main|| ||DEBUG|| ||RedisComponent.java:202|| -redis key:fd ping result:PONG
+[2021-07-23 14:38:19.432] ||main|| ||DEBUG|| ||RedisComponent.java:202|| -redis key:fd ping result:PONG
+[2021-07-23 14:38:19.432] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = platform
+[2021-07-23 14:38:19.432] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = platform
+[2021-07-23 14:38:19.432] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = dbQueue
+[2021-07-23 14:38:19.432] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = dbQueue
+[2021-07-23 14:38:19.433] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = rpcServer
+[2021-07-23 14:38:19.433] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = rpcServer
+[2021-07-23 14:38:19.433] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = webSocketServer
+[2021-07-23 14:38:19.433] ||main|| ||DEBUG|| ||Litchi.java:271|| -[component->start()] name = webSocketServer
+[2021-07-23 14:38:19.661] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = event
+[2021-07-23 14:38:19.661] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = event
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = route
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = route
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = jdbc
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = jdbc
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = dispatch
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = dispatch
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = dataConfig
+[2021-07-23 14:38:19.662] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = dataConfig
+[2021-07-23 14:38:19.663] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = rpcClient
+[2021-07-23 14:38:19.663] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = rpcClient
+[2021-07-23 14:38:19.678] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = redis
+[2021-07-23 14:38:19.678] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = redis
+[2021-07-23 14:38:19.679] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = platform
+[2021-07-23 14:38:19.679] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = platform
+[2021-07-23 14:38:19.679] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = dbQueue
+[2021-07-23 14:38:19.679] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = dbQueue
+[2021-07-23 14:38:19.680] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = rpcServer
+[2021-07-23 14:38:19.680] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = rpcServer
+[2021-07-23 14:38:19.682] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = webSocketServer
+[2021-07-23 14:38:19.682] ||main|| ||DEBUG|| ||Litchi.java:278|| -[component->afterStart()] name = webSocketServer
+[2021-07-23 14:38:19.766] ||main|| ||DEBUG|| ||ChatService.java:52|| -当前 node id : 1
+[2021-07-23 14:38:20.163] ||pool-3-thread-1|| ||DEBUG|| ||RedisPubSubListener.java:26|| -订阅了频道: ActivityChange , 1
+[2021-07-23 14:38:20.170] ||pool-3-thread-1|| ||DEBUG|| ||RedisPubSubListener.java:26|| -订阅了频道: ActorUiInfo , 2
+[2021-07-23 14:38:21.722] ||litchi-schedule-1|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:21.722] ||litchi-schedule-1|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:23.732] ||litchi-schedule-1|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:23.732] ||litchi-schedule-1|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:25.747] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:25.747] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:27.764] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:27.764] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:29.777] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:29.777] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:31.786] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:31.786] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:33.797] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:33.797] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:35.806] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:35.806] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:37.814] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:37.814] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:39.823] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:39.823] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:41.832] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:41.832] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:43.839] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:43.839] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:45.848] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:45.848] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:47.855] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:47.855] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:49.865] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:49.865] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:51.881] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:51.881] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:53.894] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:53.894] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:55.905] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:55.905] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:57.915] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:57.915] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:38:59.924] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:38:59.924] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:01.931] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:01.931] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:03.939] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:03.939] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:05.950] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:05.950] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:07.958] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:07.958] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:09.965] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:09.965] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:11.975] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:11.975] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:13.983] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:13.983] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:15.993] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:15.993] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:18.004] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:18.004] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:19.685] ||nioEventLoopGroup-2-2|| ||DEBUG|| ||HeartbeatHandler.java:36|| -receive heartbeat from ... HeartbeatPacket{fromNodeType='game', fromNodeId='game-1', time=1627022359679}
+[2021-07-23 14:39:19.685] ||nioEventLoopGroup-2-2|| ||DEBUG|| ||HeartbeatHandler.java:36|| -receive heartbeat from ... HeartbeatPacket{fromNodeType='game', fromNodeId='game-1', time=1627022359679}
+[2021-07-23 14:39:20.013] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:20.013] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:22.024] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:22.024] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:24.035] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:24.035] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:26.045] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:26.045] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:28.052] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:28.052] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:30.061] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:30.061] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:32.072] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:32.072] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:34.079] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:34.079] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:36.089] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:36.089] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:38.096] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:38.096] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:40.101] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:40.101] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:42.107] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:42.107] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:44.113] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:44.113] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:46.120] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:46.120] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:48.136] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:48.136] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:50.148] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:50.148] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:52.153] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:52.153] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:54.158] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:54.158] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:56.169] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:56.169] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=20961 nodeType=gameglobal nodeId=gameglobal
+[2021-07-23 14:39:58.174] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1
+[2021-07-23 14:39:58.174] ||litchi-schedule-2|| ||DEBUG|| ||NettyRpcClient.java:157|| ------>connect fail. server info = host=192.168.200.201 port=6004 nodeType=center nodeId=center-1

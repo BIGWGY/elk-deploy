@@ -1,0 +1,4 @@
+# 配置文件读取路径
+path.config: /etc/logstash/conf.d/*.conf
+# 日志输出路径
+path.logs: /var/log/logstash

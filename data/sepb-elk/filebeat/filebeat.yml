@@ -1,0 +1,26 @@
+#filebeat.modules:
+#  - module: system
+filebeat.prospectors:
+  - input_type: log
+    paths:
+      # 这里一定要挂载目录，坑我好长时间。。。 这里容器里面的目录
+      - /data/logs/*.log
+    fields_under_root: true
+    fields:
+      logtype: "larvel" # 这个字段用来做 logstash filter 类型判断
+      server_name: "测试服务器"
+    # laravel 日志多行合并配置
+    multiline.pattern: '^\[[0-9]{4}-[0-9]{2}-[0-9]{2}'
+    multiline.negate: true
+    multiline.match: after
+
+output.logstash:
+    hosts: ["192.168.0.3:5044"]
+
+# 规避数据热点的优化参数：
+# 积累1024条消息才上报
+spool_size: 1024
+# 或者空闲5s上报
+idle_timeout: "5s"
+#filebeat.config.modules:
+#   path: ${path.config}/modules.d/*.yml
